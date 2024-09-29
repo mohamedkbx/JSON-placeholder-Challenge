@@ -25,6 +25,9 @@
   transition: all 0.3s;
   cursor: pointer;
 }
+.user-id h3 {
+  font-size: 1rem;
+}
 
 .user-id:hover {
   background-color: #000;
